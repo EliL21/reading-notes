@@ -10,4 +10,12 @@ Reading Journal for 102d45
 
 3.**Have a can do attitude while learning**
 
-### Here's a link to my GitHub Profile: [GitHub(https://github.com/EliL21)]
+### Here's a link to my GitHub Profile: [GitHub](https://github.com/EliL21)
+
+## Table of contents 
+
+### 102 Note's
+
+- [read1](102/Class1.md)
+
+### 201 Note's
