@@ -26,3 +26,21 @@ Reading Journal for 102d45
 - [Operators & Loops](102/Class8.md)
 
 ### 201 Note's
+
+- [Class1](201/Class1.md)
+- [Class2](201/Class2.md)
+- [Class3](201/Class3.md)
+- [Class4](201/Class4.md/)
+- [Class5](201/Class5.md/)
+- [Class6](201/Class6.md/)
+- [Class7](201/Class7.md/)
+- [Class8](201/Class8.md/)
+- [Class9](201/Class9.md/)
+- [Class10](201/Class10.md/)
+- [Class11](201/Class11.md/)
+- [Class12](201/Class12.md/)
+- [Class13](201/Class13.md/)
+- [Class14](201/Class14.md/)
+- [Class15](201/Class15.md/)
+
+
