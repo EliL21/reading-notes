@@ -42,4 +42,19 @@ Reading Journal for 102d45
 - [Class14](201/Class14.md/)
 - [Class15](201/Class15.md/)
 
-
+### 301 Note's
+Class1 (301/Class1.md/)
+Class2 (301/Class2.md/)
+Class3 (301/Class3.md/)
+Class4 (301/Class4.md/)
+Class5 (301/Class5.md/)
+Class6 (301/Class6.md/)
+Class7 (301/Class7.md/)
+Class8 (301/Class8.md/)
+Class9 (301/Class9.md/)
+Class10 (301/Class10.md/)
+Class11 (301/Class11.md/)
+Class12 (301/Class12.md/)
+Class13 (301/Class13.md/)
+Class14 (301/Class14.md/)
+Class15 (301/Class15.md/)
