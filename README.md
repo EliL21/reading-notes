@@ -107,5 +107,5 @@ Reading Journal for 102d45
 - [Class42](401/Class42.md/)
 - [Class43](401/Class43.md/)
 
-- [PreWork](401/DataStructureAndAlgorithms.md/)
-- [GrowthMindset](401/)
+- [DataStructureAndAlgorithms](401/DataStructureAndAlgorithms.md/)
+- [GrowthMindset](401/GrowthMindset.md/)
